@@ -1,0 +1,27 @@
+# 公众号配置
+# 公众号appId
+"app_id": "wx23d83c9fc23a8687",
+# 公众号appSecret
+"app_secret": "bb0b5e7968154d096fb14c0a09d7d205",
+# 模板消息id
+"template_id": "B7HL1tfq8qM0f7oHxZCPmnYX4_qX-oBcQwifoI-yJ-c",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o72Xa6T5lhO-_M8QpZPitVOqkiJ0","o72Xa6RlRJTbScyaoDCz2JGijQpk"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "bae5b5895cfc4620b8637262b54bf41d",
+# 天行数据apikey
+"tian_api": "78a80ad877a9dc8d23a816643d99c9a1",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "兴县",
+# 生日1
+"birthday1": {"name": "", "birthday": "r2005-09-25"},
+# 生日2
+"birthday2": {"name": "老王", "birthday": "r1997-10-8"},
+# 在一起的日子，格式同上
+"love_date": "1997-11-07",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "你是唯一，即是所有。",
+# 金句英文
+"note_en": "I LOVE YOU."
